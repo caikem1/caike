@@ -1,0 +1,1 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><li><a href="/caike/categories/1">Android1</a></li><li><a href="/caike/categories/4">Caike</a></li><li><a href="/caike/categories/5">Caike</a></li><li><a href="/caike/categories/6">Caike</a></li><li><a href="/caike/categories/2">IOS</a></li><li><a href="/caike/categories/3">Samsung</a></li>
